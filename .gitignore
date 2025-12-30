@@ -1,0 +1,8 @@
+# build output
+build/
+*.o
+*.a
+*.so
+
+
+notes.txt

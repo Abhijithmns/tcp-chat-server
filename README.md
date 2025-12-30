@@ -4,17 +4,18 @@ A simple multithreaded TCP chat server written in C using POSIX sockets and pthr
 ## Project Structure
 
 
-├── Server/ # Server-side code
+- Server/ # Server-side code
 
-├── Client/ # Client-side code
+- Client/ # Client-side code
 
-├── Utils/ # Socket utility functions
+- Utils/ # Socket utility functions
 
-├── CMakeLists.txt
+- CMakeLists.txt
 
-├── .gitignore
+- .gitignore
 
-└── README.md
+- README.md
+
 
 ## Features
 
